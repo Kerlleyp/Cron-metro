@@ -5,7 +5,7 @@
 * [Commands](#commands)
 
 ## General info
-Um jogo divertido e emocionante para todas as idades.
+Um app/site para você cronometrar seu tempo sem precisar ficar olhando varias vezes as horas por dia.
 
 ## Technologies
 * JavaScript;
